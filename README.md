@@ -22,8 +22,8 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- **Solution URL:** [Adicione a URL da sua solução aqui]([https://github.com/seu-usuario/seu-repositorio](https://github.com/TheRazorbill/huddle_landing_page))
-- **Live Site URL:** [Adicione a URL do site ao vivo aqui](https://therazorbill.github.io/huddle_landing_page/)
+- **Solution URL:** [--]([-)
+- **Live Site URL:** [URL do site ao vivo aqui](https://therazorbill.github.io/huddle_landing_page/)
 
 ## My process
 
